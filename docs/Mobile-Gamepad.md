@@ -3,3 +3,4 @@ Mobile Universal Gamepad for RetroPie
 ***
 _Full description about project is available on page. https://github.com/sbidolach/mobile-gamepad_
 ***
+https://github.com/sbidolach/mobile-gamepad.git
